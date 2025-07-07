@@ -89,10 +89,15 @@ I used MySQL, one of the most popular relational database management systems, as
 🤝 **Let’s Connect**
 
 I’m always open to:
+
 Feedback on this project
+
 Data and SQL discussions
+
 Collaboration opportunities
+
 And of course… pizza recommendations! 🍕
+
 **Thanks for checking out my project — your time is appreciated!** 🚀
 
 📂 **What’s Next?**
