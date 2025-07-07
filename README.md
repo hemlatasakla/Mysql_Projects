@@ -1,4 +1,4 @@
-🍕 **Pizza Sales Analysis using MySQL**
+🍕 **Pizzahut Sales Analysis using MySQL**
 
 Hello! 👋 I'm Hemlata Sakla, and this project is all about diving into pizza sales data using SQL — because what's better than combining data analysis and pizza? 😄
 
